@@ -2,10 +2,6 @@
 
 A React Native mobile application that provides a streamlined e-commerce experience with product browsing, detailed product views, and shopping cart functionality.
 
-## How to download release build to test
-
-MiniEcommerceApp/android/app/build/outputs/bundle/release/app-release.aab
-
 ## Features
 
 - **Product List**: Grid display of products with images, titles, prices, and ratings
